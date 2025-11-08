@@ -1,4 +1,4 @@
-# 🌦️ FPGA-Based Weather Station
+# 🌦️ Digital Weather Monitor
 
 **Course:** Digital Project Laboratory (EDA234)  
 **Institution:** Chalmers University of Technology, MPEES  
