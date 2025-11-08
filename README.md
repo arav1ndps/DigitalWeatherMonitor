@@ -62,7 +62,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - 8-bit resolution with ±5% RH accuracy
 - Sampling rate: 1 measurement every 2 seconds
 
-![DHT11 Block Diagram](Figures/block diagram of dht11.PNG)
+![DHT11 Block Diagram](Figures/block_diagram_of_dht11.PNG)
 
 ---
 
