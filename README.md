@@ -91,7 +91,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Sends sensor readings to PC through FPGA’s USB-to-serial interface
 - VHDL-based FSM handles frame generation
 
-![UART Frame](figures/UART_block.png)
+![UART Frame](Figures/UART_block.png)
 
 ---
 
@@ -121,7 +121,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 
 ## 🔌 Circuit and Wiring Diagrams
 ![Circuit Diagram](Figures/circuit.png)
-![Wiring Diagram](Figures/Wiring.png)
+![Wiring Diagram](Figures/wiring.png)
 
 ---
 
