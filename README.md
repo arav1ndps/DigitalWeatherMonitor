@@ -37,7 +37,7 @@ The FPGA serves as the central controller interfacing with:
 - **UART Transmitter**
 - **Speaker Alarm**
 
-![High-Level Block Diagram](Figures/block_diagram.png)
+![High-Level Block Diagram](Figures/wrapper.png)
 
 Each sensor has a dedicated FSM-based controller.  
 The FPGA collects and processes data, converts it to human-reFdable format, and displays it or sends it over UART.
