@@ -73,7 +73,8 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Interfaced via **12-bit SPI-based ADC (MCP3202)**
 - FSM controls SPI data acquisition
 
-![MCP3202 Block Diagram](figures/mcp3202_block.png)
+![MCP3202 Block Diagram](Figures/adc_block_diagram.png)
+![MCP3202 Pin Diagram](Figures/package_type_adc.png)
 
 ---
 
@@ -82,7 +83,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Controlled via VHDL FSM using RS, RW, and Enable signals
 - Displays temperature readings
 
-![LCD State Diagram](figures/lcd_state.png)
+![LCD State Diagram](Figures/block_diagram_lcd.png)
 
 ---
 
@@ -91,7 +92,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Sends sensor readings to PC through FPGA’s USB-to-serial interface
 - VHDL-based FSM handles frame generation
 
-![UART Frame](figures/uart_frame.png)
+![UART Frame](figures/UART_block.png)
 
 ---
 
@@ -120,8 +121,8 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 ---
 
 ## 🔌 Circuit and Wiring Diagrams
-![Circuit Diagram](figures/circuit_diagram.png)
-![Wiring Diagram](figures/wiring_diagram.png)
+![Circuit Diagram](Figures/circuit.png)
+![Wiring Diagram](Figures/Wiring.png)
 
 ---
 
