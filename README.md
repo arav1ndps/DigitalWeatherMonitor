@@ -63,7 +63,6 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Sampling rate: 1 measurement every 2 seconds
 
 ![DHT11 Block Diagram](Figures/block diagram of dht11.PNG)
-![DHT11 Timing Diagram](Figures/dht11_timing.png)
 
 ---
 
