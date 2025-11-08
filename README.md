@@ -52,7 +52,7 @@ The FPGA collects and processes data, converts it to human-reFdable format, and 
 - Operational range: **-55°C to +125°C**
 - Implemented using **FSM-based VHDL controller**
 
-![DS18B20 FSM](Figures/blockdig.png)
+![DS18B20 FSM](Figures/blockdig.PNG)
 
 ---
 
