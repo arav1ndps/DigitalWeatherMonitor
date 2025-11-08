@@ -22,7 +22,7 @@ The system features:
 - UART communication for data transmission
 - Alarm notification for hazardous air quality levels
 
-![System Overview](figures/system_overview.png)
+![System Overview](Figures/system.pdf)
 
 ---
 
