@@ -3,10 +3,10 @@
 **Course:** Digital Project Laboratory (EDA234)  
 **Institution:** Chalmers University of Technology, MPEES  
 **Contributors:**  
-- Jorge Muñoz Bautista  
-- Divya Venigandla  
+- Aravind Prasannanpillai Sreevilasam
+- Divya Venigandla
+- Jorge Muñoz Bautista    
 - Ritika Bora  
-- Aravind Prasannanpillai Sreevilasam  
 **Date:** January 2023  
 
 ---
