@@ -37,10 +37,10 @@ The FPGA serves as the central controller interfacing with:
 - **UART Transmitter**
 - **Speaker Alarm**
 
-![High-Level Block Diagram](figures/block_diagram.png)
+![High-Level Block Diagram](Figures/block_diagram.png)
 
 Each sensor has a dedicated FSM-based controller.  
-The FPGA collects and processes data, converts it to human-readable format, and displays it or sends it over UART.
+The FPGA collects and processes data, converts it to human-reFdable format, and displays it or sends it over UART.
 
 ---
 
@@ -52,7 +52,7 @@ The FPGA collects and processes data, converts it to human-readable format, and 
 - Operational range: **-55°C to +125°C**
 - Implemented using **FSM-based VHDL controller**
 
-![DS18B20 FSM](figures/ds18b20_fsm.png)
+![DS18B20 FSM](Figures/blockdig.png)
 
 ---
 
@@ -62,7 +62,8 @@ The FPGA collects and processes data, converts it to human-readable format, and 
 - 8-bit resolution with ±5% RH accuracy
 - Sampling rate: 1 measurement every 2 seconds
 
-![DHT11 Timing Diagram](figures/dht11_timing.png)
+![DHT11 Block Diagram](Figures/block diagram of dht11.PNG)
+![DHT11 Timing Diagram](Figures/dht11_timing.png)
 
 ---
 
